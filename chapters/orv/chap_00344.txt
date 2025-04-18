@@ -51,7 +51,7 @@ Maybe she was living a 'scenario' even before the scenario started. No one calle
 After entering the game company and becoming independent at home, his life changed a bit. She also met an interesting person.
 <&>「 "Yoo Sangah-ssi. Do you have a mobile phone charger?" 」
 The man with a thin face who borrowed her charger.
-<&>「 "I am an important appointment at 7 o'clock and my battery is running out." 」
+<&>「 "I have an important appointment at 7 o'clock and my battery is running out." 」
 A person who did the interview with her and who was uncooperative about everything in the company.
 <&>「 "I will attend the ceremony but I must leave at 7 o'clock." 」
 He was always the person to leave the company first once the work day ended.
